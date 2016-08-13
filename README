@@ -1,0 +1,8 @@
+The program prints the intial topology and intial cost, and the final optimized topology and final cost.
+
+Source files - fp.h fp.cpp main.cpp
+Input file - input_file.txt
+Makefile - makefile
+Executable - fpexec
+How to compile - make
+How to run - ./fpexec
