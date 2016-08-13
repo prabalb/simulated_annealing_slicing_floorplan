@@ -1,3 +1,9 @@
+/*
+ * Simulated Annealing Algorithm for Slicing Floorplan
+ * AUTHOR: Prabal Basu (A02049867)
+ */
+
+
 #include "./fp.h"
 #include <fstream>
 #include <cstring>
